@@ -1,10 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
+**williamzborja** is a ✨ _special_ GitHub profile.
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamzborja&theme=vue&show_icons=true" alt="My github stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamzborja&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
+</p>
 <!--
-**williamzborja/williamzborja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
