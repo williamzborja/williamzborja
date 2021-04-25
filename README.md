@@ -1,23 +1,51 @@
-# Hi there 👋
+# Hi 👋 Developer, Recruiter or Tech Person.
 
-**williamzborja** is a ✨ _special_ GitHub profile.
+I'm **williamzborja** William Andres Rodriguez Borja
+
+I'm different Developer a esencially different person I have a big proactive actitude and Entrepreneurship spirit I love SCRUM, Sprint Design and Agile Methologies and work in my creative skills lidership, effective communication, design and music I'm Play guitar and basic piano.
+
+If you are confused with wide profile I'm describe as Generalist person that have one area of focus or specialization that is Software Development Cycle(Devops Pipeline) since Planning and ideation to Deploy and Maintain and all software project or product mixed Chief skills with Design, planning, communication, and artistic skill for create great Digital products.
+
+🌱 I’m currently learning Fullstack Engineer In Holberton School
+Thanks for Know something with me.
+
+If you are a recruiter maybe this may interest you.
+- ![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)
+- Portfolio [williamzborja](https://williamzborja.com)
+
+If your want collaborate in my projects
+
+- Twitter
+- Discord
+
+## My favorite Tech.
+### Programming Language
+- C / C++.
+- Rust.
+- Golang.
+
+### Database
+- MongoDB.
+- SQL.
+
+## Frontend
+- React.
+- Flutter.
+
+## Project Managment
+- Jira.
+- Trello.
+
+## Virtualization.
+- VMWare.
+- Docker.
+- Kubernetes.
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamzborja&theme=vue&show_icons=true" alt="My github stats" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamzborja&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
