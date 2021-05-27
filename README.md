@@ -2,7 +2,7 @@
 
 I'm **williamzborja** William Andres Rodriguez Borja
 
-I'm different Developer a esencially different person I have a big proactive actitude and Entrepreneurship spirit I love SCRUM, Sprint Design and Agile Methologies and work in my creative skills lidership, effective communication, design and music I'm Play guitar and basic piano.
+I'm different Developer a esencially different person I have a big proactive actitude and Entrepreneurship spirit I love SCRUM, Sprint Design and Agile Methologies and work in my creative skills leadership, effective communication, design and music I'm Play guitar and basic piano.
 
 If you are confused with wide profile I'm describe as Generalist person that have one area of focus or specialization that is Software Development Cycle(Devops Pipeline) since Planning and ideation to Deploy and Maintain and all software project or product mixed Chief skills with Design, planning, communication, and artistic skill for create great Digital products.
 
