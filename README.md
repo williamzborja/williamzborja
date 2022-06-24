@@ -19,10 +19,15 @@ If your want collaborate in my projects
 - Discord
 
 ## My favorite Tech.
-### Programming Language
-- C / C++.
-- Rust.
+
 - Golang.
+- C / C++.
+
+
+### Programming Language
+- Java
+- Python
+- NodeJs
 
 ### Database
 - MongoDB.
@@ -32,17 +37,9 @@ If your want collaborate in my projects
 - React.
 - Flutter.
 
-## Project Managment
-- Jira.
-- Trello.
-
 ## Virtualization.
-- VMWare.
 - Docker.
 - Kubernetes.
-
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamzborja&theme=vue&show_icons=true" alt="My github stats" />
 </p>
